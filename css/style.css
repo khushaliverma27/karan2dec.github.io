@@ -55,7 +55,7 @@ ul.navbar{
 
 .navbar li a:active{
 	background-color: dodgerblue;
-	color: white;
+	color: yellow;
 	font-weight: bold;
 }
 
@@ -190,7 +190,7 @@ ul.navbar{
 }
 
 .social:hover{
-	transform: scale(1.25);
+	transform: scale(1.5);
 	opacity: 1;
 }
 
